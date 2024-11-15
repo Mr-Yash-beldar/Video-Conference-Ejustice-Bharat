@@ -1,8 +1,8 @@
 {
-  "name": "react-sdk-example",
+  "name": "video-ejusticebharat",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lab.videosdk.live/react-rtc-demo/",
+  "homepage": "https://ejusticebharat.onrender.com",
   "dependencies": {
     "@headlessui/react": "^1.7.17",
     "@heroicons/react": "^1.0.6",
